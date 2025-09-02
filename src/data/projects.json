@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Room Rental Website",
+    "description": "Helps users find monthly rental rooms; owners can upload properties.",
+    "technologies": ["React js", "Bootstrap", "Node.js", "MongoDB"],
+    "image": "/images/room-rental.png",
+    "link": "https://example.com/room-rental"
+  },
+  {
+    "id": 2,
+    "title": "Portfolio Website",
+    "description": "My personal portfolio showcasing my projects and skills.",
+    "technologies": ["React js", "Tailwind CSS", "Framer Motion"],
+    "image": "/images/portfolio.png",
+    "link": "https://simransharma111.github.io/portfolio.github.io/"
+  },
+  {
+    "id": 3,
+    "title": "E-Commerce Website",
+    "description": "Fully functional e-commerce platform with user authentication.",
+    "technologies": ["MERN Stack"],
+    "image": "/images/ecommerce.png",
+    "link": "https://example.com/ecommerce"
+  },
+  {
+    "id": 4,
+    "title": "Travel Website",
+    "description": "Travel planning and booking platform with interactive UI.",
+    "technologies": ["React", "Node.js", "MongoDB"],
+    "image": "/images/travel.png",
+    "link": "https://example.com/travel"
+  },
+  {
+    "id": 5,
+    "title": "Photo Studio Website",
+    "description": "Professional photo studio showcasing portfolio and bookings.",
+    "technologies": ["React", "Bootstrap"],
+    "image": "/images/photo-studio.png",
+    "link": "https://example.com/photo-studio"
+  }
+]
