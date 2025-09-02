@@ -41,7 +41,7 @@ const Footer = () => {
 
         <div className="flex space-x-6 text-2xl">
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/Simransharma111"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub"
@@ -50,7 +50,7 @@ const Footer = () => {
             <FaGithub />
           </a>
           <a
-            href="https://linkedin.com/in/yourusername"
+            href="https://www.linkedin.com/in/simran-sharma-2a46232a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app "
             target="_blank"
             rel="noopener noreferrer"
             aria-label="LinkedIn"
@@ -68,7 +68,7 @@ const Footer = () => {
             <FaTwitter />
           </a>
           <a
-            href="https://instagram.com/yourusername"
+            href="https://www.instagram.com/tapsya_tech?igsh=MXZuamcyaTN5NHluaQ== "
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Instagram"
